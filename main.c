@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
                 scanf("%s", filename);
                 saveFile(filename, board);
                 break;
-
+ 
             // Loads the board from a specified file
             case 4:
                 printf("\n> Enter the filename to load: ");

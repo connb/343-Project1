@@ -1,9 +1,7 @@
-/**********************************************************************
- * Makefile for Game of Life
- *
- * @author Brandon Conn
- * @version 2-12-2018
- *********************************************************************/
+#Makefile for Game of Life
+ 
+#@author Brandon Conn
+#@version 2-12-2018
 
 main : main.o file_utilities.o
 	clang -o game main.o file_utilities.o

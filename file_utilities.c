@@ -8,7 +8,7 @@
  *     Counts the number of neighbors
  *     Uses the number of neighbors to determine what to do on the
  *         next generation of the board
- *
+ * 
  * @author Brandon Conn
  * @version 2-12-2018
  *********************************************************************/
