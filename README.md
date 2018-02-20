@@ -14,7 +14,7 @@ The files contain one long string. The first two integers correlate with the num
 
 The following string:
 
-7 &nbsp; 4O &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; O &nbsp; OO &nbsp; O &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OOOOO &nbsp; O &nbsp; &nbsp; O
+74O &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; O &nbsp; OO &nbsp; O &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OOOOO &nbsp; O &nbsp; &nbsp; O
 
 Would generate like this:
 
